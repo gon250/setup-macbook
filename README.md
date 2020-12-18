@@ -15,6 +15,7 @@ Personal macbook setup.
     - vlc
     - postman
     - notion
+    - [alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
 ## Shell
 re-install zsh by brew
 - ``$ brew install zsh``

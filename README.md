@@ -6,6 +6,7 @@ Personal macbook setup.
 - Install Brew
     - [https://brew.sh/](https://brew.sh/)
     - iterm2
+    - fzf
     - git
     - rectangle
     - alfred

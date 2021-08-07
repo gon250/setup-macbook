@@ -41,9 +41,7 @@ Extra config for ``.zshrc``
 
 ## Node 
 Install node by ``nvm``
-- https://github.com/nvm-sh/nvm
-  - ``$ nvm install node``
-  - ``$ nvm use node``
+Updated: brew is not working at all, so use https://github.com/lukechilds/zsh-nvm
 
 # SSH 
 Configure ssh 

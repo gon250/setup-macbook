@@ -13,7 +13,7 @@ Personal macbook setup.
     - google-chrome
     - firefox
     - docker
-    - vlc
+    - brew install --cask iina
     - postman
     - notion
     - [tree](https://formulae.brew.sh/formula/tree)

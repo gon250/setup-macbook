@@ -49,5 +49,5 @@ Configure ssh
 ``$ mkdir ~/.ssh && touch ~/.ssh/config``
 
 # Extra Apps
-- [https://bjango.com/mac/istatmenus/](https://bjango.com/mac/istatmenus/)
+- [https://github.com/exelban/stats][https://github.com/exelban/stats]
 - [https://matthewpalmer.net/vanilla/](https://matthewpalmer.net/vanilla/)

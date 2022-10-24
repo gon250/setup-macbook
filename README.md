@@ -2,7 +2,7 @@
 
 Personal macbook setup.
 ## Brew 
-- xcode-select --install
+- xcode-select --install (this step not required, as brew installs it for you)
 - Install Brew
     - [https://brew.sh/](https://brew.sh/)
     - iterm2
